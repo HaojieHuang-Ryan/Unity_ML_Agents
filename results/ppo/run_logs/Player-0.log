@@ -1,0 +1,56 @@
+Mono path[0] = '/Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Resources/Data/Managed'
+Mono config path = '/Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.18f1 (a7d1c678663c)
+[Subsystems] Discovering subsystems at path /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Resources/Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+2021-12-14 20:00:12.188 FinalProject[10543:425618] Color LCD preferred device: Intel(R) UHD Graphics 630 (low power)
+2021-12-14 20:00:12.188 FinalProject[10543:425618] Metal devices available: 2
+2021-12-14 20:00:12.188 FinalProject[10543:425618] 0: AMD Radeon Pro 5300M (high power)
+2021-12-14 20:00:12.188 FinalProject[10543:425618] 1: Intel(R) UHD Graphics 630 (low power)
+2021-12-14 20:00:12.189 FinalProject[10543:425618] Using device AMD Radeon Pro 5300M (high power)
+Initializing Metal device caps: AMD Radeon Pro 5300M
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.078 seconds
+UnloadTime: 1.013970 ms
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so.dylib
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so.bundle
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.dylib
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.bundle
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so.dylib
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so.bundle
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.dylib
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.bundle
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 700011cd5000 -> priority: 1 
+  Thread -> id: 700011ee1000 -> priority: 1 
+  Thread -> id: 700011f64000 -> priority: 1 
+  Thread -> id: 700011ddb000 -> priority: 1 
+  Thread -> id: 700011d58000 -> priority: 1 
+  Thread -> id: 700011e5e000 -> priority: 1 
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.dylib
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.so
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.bundle
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/advapi32.dll
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dylib
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.so
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.bundle
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/advapi32
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.dylib
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.so
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.bundle
+Fallback handler could not load library /Users/Ryan/Desktop/CMPT310/FinalProject/Test.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll
